@@ -128,11 +128,6 @@ Bash       3 hrs 33 mins  ██████████████████
 ![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
 
 
-<p align="center">
-<a href="https://jasonkayzk.github.io/chat/"><img src="https://chat-room-6jyt.onrender.com/room/@JasonkayZK/svg?width=750&height=340&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
-</p>
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
